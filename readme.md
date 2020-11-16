@@ -9,6 +9,8 @@
 
 ### 常用包
 * sync
+    1. sync.once
+    2. sync.WaitGroup.Add(delta int)、sync.Done()、sync.Wait()
 * time
 * io
 * sort
