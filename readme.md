@@ -23,6 +23,7 @@
 
 ### gin-example
 * [go-gin-example](https://github.com/eddycjy/go-gin-example)
+* [gin中文档](https://github.com/skyhee/gin-doc-cn)
 
 go语言规范: https://tip.golang.org/ref/spec  
 GoDoc(包文档): https://godoc.org/  
