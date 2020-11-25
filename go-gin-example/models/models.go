@@ -2,11 +2,10 @@ package models
 
 import (
 	"fmt"
+	"go-gin-example/pkg/setting"
 	"log"
 
 	"github.com/jinzhu/gorm"
-
-	"github.com/EDDYCJY/go-gin-example/pkg/setting"
 )
 
 var db *gorm.DB
