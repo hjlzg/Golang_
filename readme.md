@@ -25,6 +25,9 @@
 * [go-gin-example](https://github.com/eddycjy/go-gin-example)
 * [gin中文档](https://github.com/skyhee/gin-doc-cn)
 
+### go-web-demo
+* [go web](https://github.com/daoshenzzg/go-web-demo)
+
 go语言规范: https://tip.golang.org/ref/spec  
 GoDoc(包文档): https://godoc.org/  
 go环境安装: https://studygolang.com/dl  

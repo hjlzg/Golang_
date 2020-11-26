@@ -2,22 +2,22 @@ package v1
 
 import "github.com/gin-gonic/gin"
 
-//获取多个文章标签
+//GetTags is
 func GetTags(c *gin.Context){
 
 }
 
-//新增文章标签
+//AddTag is
 func AddTag(c *gin.Context){
 
 }
 
-//修改文章标签
+//EditTag is
 func EditTag(c *gin.Context){
 
 }
 
-//删除文章标签
+//DeleteTag is
 func DeleteTag(c *gin.Context){
 
 }
